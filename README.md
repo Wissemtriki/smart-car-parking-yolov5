@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/anil2k/smart-car-parking-yolov5">
+  <a href="https://github.com/Wissemtriki/smart-car-parking-yolov5">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -36,7 +36,7 @@
   <p align="center">
     An awesome project to jumpstart your own car parking projects !
     <br />
-    <a href="https://github.com/anil2kk/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Wissemtriki/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Wissemtriki/smart-car-parking-yolov5/issues">View Demo</a>

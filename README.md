@@ -150,7 +150,7 @@ tqdm>=4.41.0
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+To run on Google Colab, check the notebook:https://github.com/Wissemtriki/smart-car-parking-yolov5/blob/main/Car_Parking_Custom-Yolo-V5.ipynb
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _To run into google colab please refer notebook 

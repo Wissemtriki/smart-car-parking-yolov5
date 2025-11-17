@@ -109,7 +109,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-These libra are needed for to run this projects locally.
+These libraries are needed for to run this projects locally.
 
 matplotlib>=3.2.2
 
